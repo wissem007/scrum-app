@@ -87,6 +87,8 @@
                   <id>nexus-releases</id>
                   <url>http://10.0.0.193:8090/repository/maven-releases/</url>
                 </repository>
+       </distributionManagement>
+
 
 	<build>
 		<plugins>
